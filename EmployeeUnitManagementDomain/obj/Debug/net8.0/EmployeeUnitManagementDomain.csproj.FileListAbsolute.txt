@@ -1,0 +1,13 @@
+C:\Users\Nicolas\Documents\GitHub\Rodonaves\TechnicalEvaluation\EmployeeUnitManagementDomain\bin\Debug\net8.0\EmployeeUnitManagementDomain.deps.json
+C:\Users\Nicolas\Documents\GitHub\Rodonaves\TechnicalEvaluation\EmployeeUnitManagementDomain\bin\Debug\net8.0\EmployeeUnitManagementDomain.dll
+C:\Users\Nicolas\Documents\GitHub\Rodonaves\TechnicalEvaluation\EmployeeUnitManagementDomain\bin\Debug\net8.0\EmployeeUnitManagementDomain.pdb
+C:\Users\Nicolas\Documents\GitHub\Rodonaves\TechnicalEvaluation\EmployeeUnitManagementDomain\obj\Debug\net8.0\EmployeeUnitManagementDomain.csproj.AssemblyReference.cache
+C:\Users\Nicolas\Documents\GitHub\Rodonaves\TechnicalEvaluation\EmployeeUnitManagementDomain\obj\Debug\net8.0\EmployeeUnitManagementDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolas\Documents\GitHub\Rodonaves\TechnicalEvaluation\EmployeeUnitManagementDomain\obj\Debug\net8.0\EmployeeUnitManagementDomain.AssemblyInfoInputs.cache
+C:\Users\Nicolas\Documents\GitHub\Rodonaves\TechnicalEvaluation\EmployeeUnitManagementDomain\obj\Debug\net8.0\EmployeeUnitManagementDomain.AssemblyInfo.cs
+C:\Users\Nicolas\Documents\GitHub\Rodonaves\TechnicalEvaluation\EmployeeUnitManagementDomain\obj\Debug\net8.0\EmployeeUnitManagementDomain.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\Documents\GitHub\Rodonaves\TechnicalEvaluation\EmployeeUnitManagementDomain\obj\Debug\net8.0\EmployeeUnitManagementDomain.dll
+C:\Users\Nicolas\Documents\GitHub\Rodonaves\TechnicalEvaluation\EmployeeUnitManagementDomain\obj\Debug\net8.0\refint\EmployeeUnitManagementDomain.dll
+C:\Users\Nicolas\Documents\GitHub\Rodonaves\TechnicalEvaluation\EmployeeUnitManagementDomain\obj\Debug\net8.0\EmployeeUnitManagementDomain.pdb
+C:\Users\Nicolas\Documents\GitHub\Rodonaves\TechnicalEvaluation\EmployeeUnitManagementDomain\obj\Debug\net8.0\ref\EmployeeUnitManagementDomain.dll
+C:\Users\Nicolas\Documents\GitHub\Rodonaves\TechnicalEvaluation\EmployeeUnitManagementDomain\obj\Debug\net8.0\EmployeeUnitManagementDomain.sourcelink.json

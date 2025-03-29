@@ -1,0 +1,16 @@
+C:\Users\Nicolas\Documents\GitHub\Rodonaves\TechnicalEvaluation\EmployeeUnitManagementRepository\bin\Debug\net8.0\EmployeeUnitManagementRepository.deps.json
+C:\Users\Nicolas\Documents\GitHub\Rodonaves\TechnicalEvaluation\EmployeeUnitManagementRepository\bin\Debug\net8.0\EmployeeUnitManagementRepository.dll
+C:\Users\Nicolas\Documents\GitHub\Rodonaves\TechnicalEvaluation\EmployeeUnitManagementRepository\bin\Debug\net8.0\EmployeeUnitManagementRepository.pdb
+C:\Users\Nicolas\Documents\GitHub\Rodonaves\TechnicalEvaluation\EmployeeUnitManagementRepository\bin\Debug\net8.0\EmployeeUnitManagementDomain.dll
+C:\Users\Nicolas\Documents\GitHub\Rodonaves\TechnicalEvaluation\EmployeeUnitManagementRepository\bin\Debug\net8.0\EmployeeUnitManagementDomain.pdb
+C:\Users\Nicolas\Documents\GitHub\Rodonaves\TechnicalEvaluation\EmployeeUnitManagementRepository\obj\Debug\net8.0\EmployeeUnitManagementRepository.csproj.AssemblyReference.cache
+C:\Users\Nicolas\Documents\GitHub\Rodonaves\TechnicalEvaluation\EmployeeUnitManagementRepository\obj\Debug\net8.0\EmployeeUnitManagementRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolas\Documents\GitHub\Rodonaves\TechnicalEvaluation\EmployeeUnitManagementRepository\obj\Debug\net8.0\EmployeeUnitManagementRepository.AssemblyInfoInputs.cache
+C:\Users\Nicolas\Documents\GitHub\Rodonaves\TechnicalEvaluation\EmployeeUnitManagementRepository\obj\Debug\net8.0\EmployeeUnitManagementRepository.AssemblyInfo.cs
+C:\Users\Nicolas\Documents\GitHub\Rodonaves\TechnicalEvaluation\EmployeeUnitManagementRepository\obj\Debug\net8.0\EmployeeUnitManagementRepository.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\Documents\GitHub\Rodonaves\TechnicalEvaluation\EmployeeUnitManagementRepository\obj\Debug\net8.0\Employee.7071FF6C.Up2Date
+C:\Users\Nicolas\Documents\GitHub\Rodonaves\TechnicalEvaluation\EmployeeUnitManagementRepository\obj\Debug\net8.0\EmployeeUnitManagementRepository.dll
+C:\Users\Nicolas\Documents\GitHub\Rodonaves\TechnicalEvaluation\EmployeeUnitManagementRepository\obj\Debug\net8.0\refint\EmployeeUnitManagementRepository.dll
+C:\Users\Nicolas\Documents\GitHub\Rodonaves\TechnicalEvaluation\EmployeeUnitManagementRepository\obj\Debug\net8.0\EmployeeUnitManagementRepository.pdb
+C:\Users\Nicolas\Documents\GitHub\Rodonaves\TechnicalEvaluation\EmployeeUnitManagementRepository\obj\Debug\net8.0\ref\EmployeeUnitManagementRepository.dll
+C:\Users\Nicolas\Documents\GitHub\Rodonaves\TechnicalEvaluation\EmployeeUnitManagementRepository\obj\Debug\net8.0\EmployeeUnitManagementRepository.sourcelink.json
